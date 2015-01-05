@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:018571_0000_0FA7AD2C1306F8C0"/>
-            <pb facs="tcp:018571_0001_0FA7AD2C70EFFFF8"/>
+            <pb facs="unknown:018571_0000_0FA7AD2C1306F8C0"/>
+            <pb facs="unknown:018571_0001_0FA7AD2C70EFFFF8"/>
             <p>THE PATRIOT CHIEF. A TRAGEDY</p>
             <q>
                <l>
@@ -134,7 +134,7 @@
             <p>PHILADELPHIA: Printed for the Author, and sold by WM. PRICHARD, at his Circulating Library, and Book-Store, in Market-Street, MDCCLXXXIV.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:018571_0002_0FA7AD2D3185C7B8"/>
+            <pb facs="unknown:018571_0002_0FA7AD2D3185C7B8"/>
             <head>PREFACE.</head>
             <p>
                <hi>THE subject of the following Tragedy, which has never been acted or published, is purely fabulous. It has human nature, but no particular nation, or individual, for its ob<g ref="char:EOLhyphen"/>ject. The author thinks this declaration neces<g ref="char:EOLhyphen"/>sary, as it may prevent malignant criticism from imputing sentiments to him, which he abhors. He wishes to be thought, however ob<g ref="char:EOLhyphen"/>scure, an advocate for liberty, on the most enlarged and liberal plan; but he is warrant<g ref="char:EOLhyphen"/>ed, by history, in affirming, that true liberty may as effectually be destroyed by the machina<g ref="char:EOLhyphen"/>tions of a party, as by the ambition of a single person. An aristocracy appears to him to be the most odious and oppressive of all modes of government, nor is it destroyed without the greatest difficulty; for that monster has many heads.</hi>
@@ -151,7 +151,7 @@
             </closer>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:018571_0003_0FA7AD2E08EE4140"/>
+            <pb facs="unknown:018571_0003_0FA7AD2E08EE4140"/>
             <list>
                <head>Dramatis Personae.</head>
                <item>DORUS,</item>
@@ -171,7 +171,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:018571_0004_0FA7AD2EDA0CCED8"/>
+            <pb facs="unknown:018571_0004_0FA7AD2EDA0CCED8"/>
             <head>THE PATRIOT CHIEF. A TRAGEDY.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -201,7 +201,7 @@
                      <l>Of flexile majesty.</l>
                   </sp>
                   <sp>
-                     <pb n="2" facs="tcp:018571_0005_0FA7AD2F7983B970"/>
+                     <pb n="2" facs="unknown:018571_0005_0FA7AD2F7983B970"/>
                      <speaker>ADRASTUS.</speaker>
                      <l>You wrong the people.</l>
                      <l>They idolize their King; his better years,</l>
@@ -245,7 +245,7 @@
                      <l>Spare that argument;</l>
                      <l>I feel its utmost force. But grant, a King,</l>
                      <l>
-                        <pb n="3" facs="tcp:018571_0006_0FA7AD3037865330"/>
+                        <pb n="3" facs="unknown:018571_0006_0FA7AD3037865330"/>
 Best in his subjects' love, and fully warm'd</l>
                      <l>With grateful sentiments, to their desires</l>
                      <l>Should sacrifice his will, why should the people</l>
@@ -289,7 +289,7 @@ Best in his subjects' love, and fully warm'd</l>
                      <l>Of adoration.</l>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:018571_0007_0FA7AD30F4CD6CF0"/>
+                     <pb n="4" facs="unknown:018571_0007_0FA7AD30F4CD6CF0"/>
                      <speaker>OTANES.</speaker>
                      <l>Still my heart forebodes,</l>
                      <l>Some sad disaster threats his close of life.</l>
@@ -333,7 +333,7 @@ Best in his subjects' love, and fully warm'd</l>
                      <l>And meditates new chains.</l>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:018571_0008_0FA7AD342EAA55B8"/>
+                     <pb n="5" facs="unknown:018571_0008_0FA7AD342EAA55B8"/>
                      <speaker>OTANES.</speaker>
                      <l>I know him loyal,</l>
                      <l>
@@ -437,7 +437,7 @@ Best in his subjects' love, and fully warm'd</l>
                      <l>The Prince doats on him. He with duteous care</l>
                      <l>Repays his master's love. One will, one spirit,</l>
                      <l>
-                        <pb n="6" facs="tcp:018571_0009_0FA7AD35A9A76038"/>
+                        <pb n="6" facs="unknown:018571_0009_0FA7AD35A9A76038"/>
 Actuate both. The chace is their delight.</l>
                      <l>How have I seen their ardent spirits rise,</l>
                      <l>Their youthful bosoms throb with fierce delight</l>
@@ -489,7 +489,7 @@ Actuate both. The chace is their delight.</l>
                      <l>Wins my consent.</l>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:018571_0010_0FA7ABCD27040980"/>
+                     <pb n="7" facs="unknown:018571_0010_0FA7ABCD27040980"/>
                      <speaker>OTANES.</speaker>
                      <l>O! may Araspes view</l>
                      <l>
@@ -579,7 +579,7 @@ Actuate both. The chace is their delight.</l>
                         </gap> grac'd opening youth and riper manhood</l>
                      <l>With valor, glory, and thy country's love,</l>
                      <l>
-                        <pb n="8" facs="tcp:018571_0011_0FA7ABCDE8DD3E20"/>
+                        <pb n="8" facs="unknown:018571_0011_0FA7ABCDE8DD3E20"/>
 Protect thy weak declining age; nor suffer</l>
                      <l>Mankind to pity, whom they once rever'd!</l>
                   </sp>
@@ -642,7 +642,7 @@ Protect thy weak declining age; nor suffer</l>
                      <l>Thou heardst it, my Otanes, and thou sawst</l>
                      <l>My grief, my anguish. Though my soul, resolv'd</l>
                      <l>
-                        <pb n="9" facs="tcp:018571_0012_0FA7ABCEAA87A648"/>
+                        <pb n="9" facs="unknown:018571_0012_0FA7ABCEAA87A648"/>
 Still holds its purpose, hushing nature's voice,</l>
                      <l>Yet must the father feel. Olinthus' life</l>
                      <l>His country claims; my sorrows are my own.</l>
@@ -687,7 +687,7 @@ Still holds its purpose, hushing nature's voice,</l>
                      <l>Full of th' inspiring Godhead, thus exclaim'd!</l>
                      <l>"Intrepid offspring of a martial fire.</l>
                      <l>
-                        <pb n="10" facs="tcp:018571_0013_0FA7ABCF6925D810"/>
+                        <pb n="10" facs="unknown:018571_0013_0FA7ABCF6925D810"/>
 "Will no kind Power avert the threaten'd stroke?</l>
                      <l>"For ah! I see the fatal steel prepar'd,</l>
                      <l>"Against his life. Th' impatient crowd demands</l>
@@ -735,7 +735,7 @@ Still holds its purpose, hushing nature's voice,</l>
                      <l>Scowls on Olinthus, to the field of fame</l>
                      <l>Together let them rush, together reap</l>
                      <l>
-                        <pb n="11" facs="tcp:018571_0014_0FA7ABD026EC1C80"/>
+                        <pb n="11" facs="unknown:018571_0014_0FA7ABD026EC1C80"/>
 Unfading laurels in their country's cause.</l>
                      <l>Again the pride of Persia threatens war,</l>
                      <l>And tyranny with hasty strides approaches.</l>
@@ -783,7 +783,7 @@ Unfading laurels in their country's cause.</l>
                      <l>'Tis cowardice, 'tis Persian cowardice,</l>
                      <l>And more than female weakness. Why did I</l>
                      <l>
-                        <pb n="12" facs="tcp:018571_0015_0FA7ABD18F217190"/>
+                        <pb n="12" facs="unknown:018571_0015_0FA7ABD18F217190"/>
 Request assistance from a despot, nurtur'd</l>
                      <l>In slothful ease and base effeminacy,</l>
                      <l>The slave of women. Where, where are the troops,</l>
@@ -828,7 +828,7 @@ Request assistance from a despot, nurtur'd</l>
                      <l>The early dawn, streaking the eastern sky</l>
                      <l>With purple light. Already, my Arbaces,</l>
                      <l>
-                        <pb n="13" facs="tcp:018571_0016_0FA7ABD1A89AE1D8"/>
+                        <pb n="13" facs="unknown:018571_0016_0FA7ABD1A89AE1D8"/>
                         <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> have alarm'd the superstitious herd</l>
@@ -883,7 +883,7 @@ Request assistance from a despot, nurtur'd</l>
                      <l>Ismene, saidst thou?</l>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:018571_0017_0FA7ABD269F67650"/>
+                     <pb n="14" facs="unknown:018571_0017_0FA7ABD269F67650"/>
                      <speaker>OTANES.</speaker>
                      <l>Yes, that happy union</l>
                      <l>Will doubtless draw Adrastus to my party.</l>
@@ -917,7 +917,7 @@ Request assistance from a despot, nurtur'd</l>
                </div>
             </div>
             <div n="2" type="act">
-               <pb n="15" facs="tcp:018571_0018_0FA7ABD328CCD300"/>
+               <pb n="15" facs="unknown:018571_0018_0FA7ABD328CCD300"/>
                <head>ACT II.</head>
                <div n="1" type="scene">
                   <head>SCENE I. EUDOCIA, ISMENE, CLEANTHE,</head>
@@ -963,7 +963,7 @@ Request assistance from a despot, nurtur'd</l>
                      <l>Attend my counsel. Thou art young and artless,</l>
                      <l>Unpractis'd in the arts of men; then dread</l>
                      <l>
-                        <pb n="16" facs="tcp:018571_0019_0FA7ABD3E888CCF0"/>
+                        <pb n="16" facs="unknown:018571_0019_0FA7ABD3E888CCF0"/>
 The voice of calumny, respect the fame</l>
                      <l>Of thy great ancestors—and shun the Prince.</l>
                      <l>They come; let us retire.</l>
@@ -1007,7 +1007,7 @@ The voice of calumny, respect the fame</l>
                      <l>O my Semanthe! could ye now behold</l>
                      <l>My joy, my transports—but unerring Fate</l>
                      <l>
-                        <pb n="17" facs="tcp:018571_0020_0FA7ABD4AA100548"/>
+                        <pb n="17" facs="unknown:018571_0020_0FA7ABD4AA100548"/>
 Has otherwise decreed—and I submit.</l>
                      <l>But say, Olinthus, how hast thou beguil'd</l>
                      <l>The dreary hours, which kept thee from my arms,</l>
@@ -1055,7 +1055,7 @@ Has otherwise decreed—and I submit.</l>
                      <l>Who loiters, when his country's cause demands him.</l>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:018571_0021_0FA7ABD56BFDE6E0"/>
+                     <pb n="18" facs="unknown:018571_0021_0FA7ABD56BFDE6E0"/>
                      <speaker>DORUS.</speaker>
                      <l>Come to my arms, ye gallant youths; already</l>
                      <l>In these fair op'ning buds I see th' assurance</l>
@@ -1104,7 +1104,7 @@ Has otherwise decreed—and I submit.</l>
                      <l>Such merit so rewarded, but must own</l>
                      <l>The power of virtue, and confess, the Gods</l>
                      <l>
-                        <pb n="19" facs="tcp:018571_0022_0FA7ABD62B26E000"/>
+                        <pb n="19" facs="unknown:018571_0022_0FA7ABD62B26E000"/>
 Rais'd thee to empire. They will guard thee still,</l>
                      <l>
                         <gap reason="illegible: indecipherable" extent="1 letter">
@@ -1158,7 +1158,7 @@ Rais'd thee to empire. They will guard thee still,</l>
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="20" facs="tcp:018571_0023_0FA7ABD6E827E458"/>
+                  <pb n="20" facs="unknown:018571_0023_0FA7ABD6E827E458"/>
                   <head>SCENE III. EUDOCIA, ISMENE, CLEANTHE.</head>
                   <sp>
                      <speaker>EUDOCIA.</speaker>
@@ -1199,7 +1199,7 @@ Rais'd thee to empire. They will guard thee still,</l>
                      <l>Who deigns to dwell within.</l>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:018571_0024_0FA7ABD7C2C71328"/>
+                     <pb n="21" facs="unknown:018571_0024_0FA7ABD7C2C71328"/>
                      <speaker>CLEANTHE.</speaker>
                      <l>This warmth of language</l>
                      <l>Denotes a wond'rous change. At length thy heart,</l>
@@ -1245,7 +1245,7 @@ Rais'd thee to empire. They will guard thee still,</l>
                      <l>What youth?</l>
                   </sp>
                   <sp>
-                     <pb n="22" facs="tcp:018571_0025_0FA7ABD9B41753C0"/>
+                     <pb n="22" facs="unknown:018571_0025_0FA7ABD9B41753C0"/>
                      <speaker>ISMENE.</speaker>
                      <l>O how my troubled fancy strays,</l>
                      <l>Perplex'd, bewilder'd!</l>
@@ -1296,7 +1296,7 @@ Rais'd thee to empire. They will guard thee still,</l>
                      <l>Art thou then</l>
                      <l>That maid, the fame of whose transcendent charms</l>
                      <l>
-                        <pb n="23" facs="tcp:018571_0026_0FA7ABD9E8BC5070"/>
+                        <pb n="23" facs="unknown:018571_0026_0FA7ABD9E8BC5070"/>
 Pierc'd the thick gloom, which fenc'd me from the world,</l>
                      <l>And bade me wish and languish to behold thee?</l>
                   </sp>
@@ -1342,7 +1342,7 @@ Pierc'd the thick gloom, which fenc'd me from the world,</l>
                      <l>My love.—</l>
                   </sp>
                   <sp>
-                     <pb n="24" facs="tcp:018571_0027_0FA7ABDAAD2B6E48"/>
+                     <pb n="24" facs="unknown:018571_0027_0FA7ABDAAD2B6E48"/>
                      <speaker>ISMENE.</speaker>
                      <l>Araspes, dost thou speak of love,</l>
                      <l>Of love to me, scarce seen, so soon belov'd?</l>
@@ -1387,7 +1387,7 @@ Pierc'd the thick gloom, which fenc'd me from the world,</l>
                      <l>Fast by his side, and shield him from the foe.</l>
                   </sp>
                   <sp>
-                     <pb n="25" facs="tcp:018571_0028_0FA7ABDB68C52DF8"/>
+                     <pb n="25" facs="unknown:018571_0028_0FA7ABDB68C52DF8"/>
                      <speaker>ARASPES.</speaker>
                      <l>Enchanting words! then thou wilt think upon me.</l>
                      <l>That thought, like cheering hope to dying sinn<gap reason="illegible: indecipherable" extent="2 letters">
@@ -1433,7 +1433,7 @@ Pierc'd the thick gloom, which fenc'd me from the world,</l>
                      <speaker>OTANES.</speaker>
                      <l>My son, I sought thee—</l>
                      <l>
-                        <pb n="26" facs="tcp:018571_0029_0FA7ABDC26F11DC0"/>
+                        <pb n="26" facs="unknown:018571_0029_0FA7ABDC26F11DC0"/>
 But ah! he sees me not—his cheek is flush'd</l>
                      <l>
                         <gap reason="illegible: indecipherable" extent="1 word">
@@ -1490,7 +1490,7 @@ But ah! he sees me not—his cheek is flush'd</l>
                      <speaker>ARASPES.</speaker>
                      <l>May fav'ring Heaven with lengthen'd days re<g ref="char:EOLhyphen"/>ward thee</l>
                      <l>
-                        <pb n="27" facs="tcp:018571_0030_0FA7ABDCEE398AB8"/>
+                        <pb n="27" facs="unknown:018571_0030_0FA7ABDCEE398AB8"/>
 For thy paternal goodness! On the wings</l>
                      <l>Of love, O let me fly to meet Adrastus.</l>
                   </sp>
@@ -1541,7 +1541,7 @@ For thy paternal goodness! On the wings</l>
                      <speaker>OTANES.</speaker>
                      <l>Too oft the wretch who thinks himself possess'd</l>
                      <l>
-                        <pb n="28" facs="tcp:018571_0031_0FA7ABDDAA230878"/>
+                        <pb n="28" facs="unknown:018571_0031_0FA7ABDDAA230878"/>
 Of royal favour, like the gaudy bow,</l>
                      <l>Shines for an hour, and then is seen no more.</l>
                   </sp>
@@ -1587,7 +1587,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>By men detested, and by Heaven abandon'd!</l>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:018571_0032_0FA7ABDE67685160"/>
+                     <pb n="29" facs="unknown:018571_0032_0FA7ABDE67685160"/>
                      <speaker>OTANES.</speaker>
                      <l>Again I am myself; then hear, Araspes,</l>
                      <l>Hear what thy father, anxious for thy fame,</l>
@@ -1632,7 +1632,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>Thee, my Araspes, to such heights of glory—</l>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:018571_0033_0FA7ABDFF5791640"/>
+                     <pb n="30" facs="unknown:018571_0033_0FA7ABDFF5791640"/>
                      <speaker>ARASPES.</speaker>
                      <l>O 'twas a godlike thought! my warmest fancy</l>
                      <l>Could ne'er have flatter'd me with such a prospect.</l>
@@ -1680,7 +1680,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>Ah! spare his life!</l>
                   </sp>
                   <sp>
-                     <pb n="31" facs="tcp:018571_0034_0FA7ABE0A90A2638"/>
+                     <pb n="31" facs="unknown:018571_0034_0FA7ABE0A90A2638"/>
                      <speaker>OTANES.</speaker>
                      <l>How, dost thou kneel for this?</l>
                      <l>Have I betray'd myself to thee, thou wretch!</l>
@@ -1721,7 +1721,7 @@ Of royal favour, like the gaudy bow,</l>
                </div>
             </div>
             <div n="3" type="act">
-               <pb n="32" facs="tcp:018571_0035_0FA7ABE168F3F688"/>
+               <pb n="32" facs="unknown:018571_0035_0FA7ABE168F3F688"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1763,7 +1763,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>Pays early homage to his King, to thee.</l>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:018571_0036_0FA7ABE2290269C0"/>
+                     <pb n="33" facs="unknown:018571_0036_0FA7ABE2290269C0"/>
                      <speaker>OTANES.</speaker>
                      <l>Thy King! and lives not Dorus?</l>
                   </sp>
@@ -1811,7 +1811,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>To know no other morn.</l>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:018571_0037_0FA7ABE2E6ECFB28"/>
+                     <pb n="34" facs="unknown:018571_0037_0FA7ABE2E6ECFB28"/>
                      <speaker>ARBACES.</speaker>
                      <l>I fly.</l>
                   </sp>
@@ -1863,7 +1863,7 @@ Of royal favour, like the gaudy bow,</l>
                      <l>For my own greatness, that from him may rise</l>
                      <l>A race of Kings, who shall preserve my fame,</l>
                      <l>
-                        <pb n="35" facs="tcp:018571_0038_0FA7ABE3A719CBD0"/>
+                        <pb n="35" facs="unknown:018571_0038_0FA7ABE3A719CBD0"/>
 And waft my glory to remotest ages.</l>
                      <l>But see, he comes, I will observe thy counsel;</l>
                      <l>Leave me; he knows thou art confederate</l>
@@ -1903,7 +1903,7 @@ And waft my glory to remotest ages.</l>
                      <l>For such a crime were recompence too cheap.</l>
                      <l>Thy name in infamy's eternal records</l>
                      <l>
-                        <pb n="36" facs="tcp:018571_0039_0FA7ABE468C83750"/>
+                        <pb n="36" facs="unknown:018571_0039_0FA7ABE468C83750"/>
 Shall stand supreme; for justice must forbid,</l>
                      <l>That common murderers should share equal guilt</l>
                      <l>With him who slew his King. And canst thou think</l>
@@ -1950,7 +1950,7 @@ Shall stand supreme; for justice must forbid,</l>
                      <l>And quench the latent sparks of wild ambition.</l>
                      <l>'Tis true from virtue's paths a while I wander'd,</l>
                      <l>
-                        <pb n="37" facs="tcp:018571_0040_0FA7ABE529D67AD0"/>
+                        <pb n="37" facs="unknown:018571_0040_0FA7ABE529D67AD0"/>
 But soon I hope to find the well-known track,</l>
                      <l>Never again to stray.</l>
                   </sp>
@@ -1996,7 +1996,7 @@ But soon I hope to find the well-known track,</l>
                      <l>And yon celestial vault were at an instant</l>
                      <l>Drawn forth from chaos by th' Almighty hand,</l>
                      <l>
-                        <pb n="38" facs="tcp:018571_0041_0FA7ABE5E8625548"/>
+                        <pb n="38" facs="unknown:018571_0041_0FA7ABE5E8625548"/>
 And form'd as we behold them. Thus thy charms,</l>
                      <l>Thou heavenly maid, have in my breast created</l>
                      <l>A little world, an empire of thy own,</l>
@@ -2047,7 +2047,7 @@ And form'd as we behold them. Thus thy charms,</l>
                      <l>To be a blessing.</l>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:018571_0042_0FA7ABE7F6F8B160"/>
+                     <pb n="39" facs="unknown:018571_0042_0FA7ABE7F6F8B160"/>
                      <speaker>ISMENE.</speaker>
                      <l>Think not, my Araspes,</l>
                      <l>O think not meanly of the maid who loves thee,</l>
@@ -2090,7 +2090,7 @@ And form'd as we behold them. Thus thy charms,</l>
                      <l>Dart on thy country's foes, whilst I in Sardis</l>
                      <l>Bend to the Gods for thine and Lydia's safety.</l>
                      <l>
-                        <pb n="40" facs="tcp:018571_0043_0FA7ABE8B18E5EF0"/>
+                        <pb n="40" facs="unknown:018571_0043_0FA7ABE8B18E5EF0"/>
 Thus may they prove propitious to our vows,</l>
                      <l>And smile upon our union.</l>
                   </sp>
@@ -2136,7 +2136,7 @@ Thus may they prove propitious to our vows,</l>
                      <l>Perhaps this night we part to meet no more.</l>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:018571_0044_0FA7ABE8E8C5CA38"/>
+                     <pb n="41" facs="unknown:018571_0044_0FA7ABE8E8C5CA38"/>
                      <speaker>ARASPES.</speaker>
                      <l>Or rather say, we part to meet in glory,</l>
                      <l>To boast of conquest, freedom, and renown,</l>
@@ -2179,7 +2179,7 @@ Thus may they prove propitious to our vows,</l>
                      <l>He shuns—alas! he shuns—the pangs—I suffer.</l>
                   </sp>
                   <sp>
-                     <pb n="42" facs="tcp:018571_0045_0FA7ABE9ADD65448"/>
+                     <pb n="42" facs="unknown:018571_0045_0FA7ABE9ADD65448"/>
                      <speaker>ARASPES.</speaker>
                      <l>How awful are his tears!</l>
                   </sp>
@@ -2225,7 +2225,7 @@ Thus may they prove propitious to our vows,</l>
                      <l>You speak the wishes,</l>
                      <l>The ardent wishes of his princely soul.</l>
                      <l>
-                        <pb n="43" facs="tcp:018571_0046_0FA7ABEA68D44158"/>
+                        <pb n="43" facs="unknown:018571_0046_0FA7ABEA68D44158"/>
 There's not a youth, but will aspire at glory,</l>
                      <l>Eager to emulate his glorious actions.</l>
                      <l>Myriads of slaves must shrink before the band,</l>
@@ -2272,7 +2272,7 @@ There's not a youth, but will aspire at glory,</l>
                      <l>Who fain would shun thee? Bring not to my view</l>
                      <l>My brighter days, 'tis cruelty to shew</l>
                      <l>
-                        <pb n="44" facs="tcp:018571_0047_0FA7ABEB29398B08"/>
+                        <pb n="44" facs="unknown:018571_0047_0FA7ABEB29398B08"/>
 Th' unclouded scene, then plunge me in the gloom</l>
                      <l>Of present misery!—Yet I will indulge</l>
                      <l>The dear sensation; still methinks I see</l>
@@ -2314,7 +2314,7 @@ Th' unclouded scene, then plunge me in the gloom</l>
                      <l>O'erburthen'd with my woes!</l>
                   </sp>
                   <sp>
-                     <pb n="45" facs="tcp:018571_0048_0FA7ABEBE88D68A0"/>
+                     <pb n="45" facs="unknown:018571_0048_0FA7ABEBE88D68A0"/>
                      <speaker>ARASPES.</speaker>
                      <l>Here let me kneel,</l>
                      <l>Thus prop thy feeble frame, that sinks to earth,</l>
@@ -2353,7 +2353,7 @@ Th' unclouded scene, then plunge me in the gloom</l>
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="46" facs="tcp:018571_0049_0FA7ABECA73D8070"/>
+               <pb n="46" facs="unknown:018571_0049_0FA7ABECA73D8070"/>
                <head>ACT IV.</head>
                <div n="1" type="scene">
                   <head>SCENE I. ADRASTUS, EUDOCIA.</head>
@@ -2398,7 +2398,7 @@ Th' unclouded scene, then plunge me in the gloom</l>
                      <l>Contempt and hatred; but Araspes' worth.—</l>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:018571_0050_0FA7ABED67687C58"/>
+                     <pb n="47" facs="unknown:018571_0050_0FA7ABED67687C58"/>
                      <speaker>ADRASTUS.</speaker>
                      <l>I know him well, noble, sincere and valiant.</l>
                      <l>But by th' immortal Powers—</l>
@@ -2446,7 +2446,7 @@ Th' unclouded scene, then plunge me in the gloom</l>
                      <l>Therein have I offended? For his looks,</l>
                      <l>That pierc'd my heart, declare, I have offended.</l>
                      <l>
-                        <pb n="48" facs="tcp:018571_0051_0FA7ABEE26EEB490"/>
+                        <pb n="48" facs="unknown:018571_0051_0FA7ABEE26EEB490"/>
 He spoke with angry accent. "Hence," he cried,</l>
                      <l>"Thy mother seeks thee; learn from her my will,</l>
                      <l>"A father's will, who brooks not disobedience."</l>
@@ -2493,7 +2493,7 @@ He spoke with angry accent. "Hence," he cried,</l>
                      <l>I will appease his wrath.</l>
                   </sp>
                   <sp>
-                     <pb n="49" facs="tcp:018571_0052_0FA7ABEF8D37E170"/>
+                     <pb n="49" facs="unknown:018571_0052_0FA7ABEF8D37E170"/>
                      <speaker>ISMENE.</speaker>
                      <l>Ah! see Araspes!</l>
                      <l>Hither he comes; his looks are pale and wild;</l>
@@ -2536,7 +2536,7 @@ He spoke with angry accent. "Hence," he cried,</l>
                      <l>Endued, disdain to bend before an equal?</l>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:018571_0053_0FA7ABF019C8DC50"/>
+                     <pb n="50" facs="unknown:018571_0053_0FA7ABF019C8DC50"/>
                      <speaker>EUDOCIA.</speaker>
                      <l>Yet there are means.</l>
                   </sp>
@@ -2583,7 +2583,7 @@ He spoke with angry accent. "Hence," he cried,</l>
                      <l>To their supreme decrees</l>
                      <l>With reverence I bow. Where dwellst thou, beauty?</l>
                      <l>
-                        <pb n="51" facs="tcp:018571_0054_0FA7ABF06883DF38"/>
+                        <pb n="51" facs="unknown:018571_0054_0FA7ABF06883DF38"/>
 Not in the beaming eye, the blooming cheek,</l>
                      <l>The graceful gesture, or the faultless shape;</l>
                      <l>No, in the soul thy throne is plac'd, and thence</l>
@@ -2623,7 +2623,7 @@ Not in the beaming eye, the blooming cheek,</l>
                      <l>As the gift of Heaven</l>
                      <l>I take it from thy hand, and as thy arm</l>
                      <l>
-                        <pb n="52" facs="tcp:018571_0055_0FA7ABF12A27D308"/>
+                        <pb n="52" facs="unknown:018571_0055_0FA7ABF12A27D308"/>
 Ne'er wielded it but in thy country's cause,</l>
                      <l>Her soldier, her deliverer, her King,</l>
                      <l>To the same cause thy son shall hold it sacred.</l>
@@ -2671,7 +2671,7 @@ Ne'er wielded it but in thy country's cause,</l>
                      <l>Be brave and mild; be just and merciful;</l>
                      <l>Nor let the rashness of the warrior soil</l>
                      <l>
-                        <pb n="53" facs="tcp:018571_0056_0FA7ABF1E70420F0"/>
+                        <pb n="53" facs="unknown:018571_0056_0FA7ABF1E70420F0"/>
 The hero's lustre.—Ye, who guard the just,</l>
                      <l>Who in the hour of slaughter turn aside</l>
                      <l>The hireling's sword, and strike to earth the lance</l>
@@ -2724,7 +2724,7 @@ The hero's lustre.—Ye, who guard the just,</l>
                      <l>Be calm.</l>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:018571_0057_0FA7ABF2A7DEFC48"/>
+                     <pb n="54" facs="unknown:018571_0057_0FA7ABF2A7DEFC48"/>
                      <speaker>ADRASTUS.</speaker>
                      <l>Who urg'd thee to the deed?</l>
                   </sp>
@@ -2764,7 +2764,7 @@ The hero's lustre.—Ye, who guard the just,</l>
                      <l>Plann'd this attempt; behold, my friends, the mean</l>
                      <l>Th' unmanly artifice of tyranny.</l>
                      <l>
-                        <pb n="55" facs="tcp:018571_0058_0FA7ABF367A327E0"/>
+                        <pb n="55" facs="unknown:018571_0058_0FA7ABF367A327E0"/>
 O let it nerve your arms with tenfold fury,</l>
                      <l>That in the face of Heav'n, ye may repay</l>
                      <l>The arts of cowardice with noble valor.</l>
@@ -2805,7 +2805,7 @@ O let it nerve your arms with tenfold fury,</l>
                      <l>The task of valor; still—</l>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:018571_0059_0FA7ABF428B7FB10"/>
+                     <pb n="56" facs="unknown:018571_0059_0FA7ABF428B7FB10"/>
                      <speaker>OLINTHUS.</speaker>
                      <l>What means my father?</l>
                      <l>Can thy weak arm oppose the raging torrent?</l>
@@ -2842,7 +2842,7 @@ O let it nerve your arms with tenfold fury,</l>
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="57" facs="tcp:018571_0060_0FA7ABF4E8B8ED40"/>
+               <pb n="57" facs="unknown:018571_0060_0FA7ABF4E8B8ED40"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -2886,7 +2886,7 @@ O let it nerve your arms with tenfold fury,</l>
                      <l>Where human eye may never see thy meanness.</l>
                   </sp>
                   <sp>
-                     <pb n="58" facs="tcp:018571_0061_0FA7ABF5A6F7A1B8"/>
+                     <pb n="58" facs="unknown:018571_0061_0FA7ABF5A6F7A1B8"/>
                      <speaker>ARASPES.</speaker>
                      <l>O might indeed earth swallow me from shame.</l>
                      <l>For now each eye will glare upon thy son,</l>
@@ -2935,7 +2935,7 @@ O let it nerve your arms with tenfold fury,</l>
                      <l>Curse on my weakness, that could thus delay</l>
                      <l>Th'important stroke; I should have forc'd a passage</l>
                      <l>
-                        <pb n="59" facs="tcp:018571_0062_0FA7ABF71D23DAA8"/>
+                        <pb n="59" facs="unknown:018571_0062_0FA7ABF71D23DAA8"/>
 Even through a bleeding son; unworthy boy,</l>
                      <l>When next I see thee tremble at my rage!</l>
                   </sp>
@@ -2987,7 +2987,7 @@ Even through a bleeding son; unworthy boy,</l>
                      <speaker>ISMENE.</speaker>
                      <l>Ye who defend the weak and innocent,</l>
                      <l>
-                        <pb n="60" facs="tcp:018571_0063_0FA7ABF72B3FD6A0"/>
+                        <pb n="60" facs="unknown:018571_0063_0FA7ABF72B3FD6A0"/>
 Strike down the ruffian's sword; protect Araspes,</l>
                      <l>Let not this Persian slave—the traitor falls.</l>
                      <l>He lives, he lives, my brave preserver lives!</l>
@@ -3038,7 +3038,7 @@ Strike down the ruffian's sword; protect Araspes,</l>
                      <l>Wilt thou not shrink before the wintry blast?</l>
                      <l>Wilt thou not droop beneath the sultry ray?</l>
                      <l>
-                        <pb n="61" facs="tcp:018571_0064_0FA7ABF7E952B088"/>
+                        <pb n="61" facs="unknown:018571_0064_0FA7ABF7E952B088"/>
 For no kind roof will shield thy tender frame,</l>
                      <l>Damp earth thy bed, and heav'n thy only shelter.</l>
                   </sp>
@@ -3086,7 +3086,7 @@ For no kind roof will shield thy tender frame,</l>
                      <l>Too gen'rous maid! yet, yet reflect, Ismene.</l>
                   </sp>
                   <sp>
-                     <pb n="62" facs="tcp:018571_0065_0FA7ABF8A9572528"/>
+                     <pb n="62" facs="unknown:018571_0065_0FA7ABF8A9572528"/>
                      <speaker>ISMENE.</speaker>
                      <l>Hear me, Araspes. 'Twas not thy descent,</l>
                      <l>Nor yet those graces, which enchant my sex</l>
@@ -3132,7 +3132,7 @@ For no kind roof will shield thy tender frame,</l>
                      <l>O curst ambition!</l>
                   </sp>
                   <sp>
-                     <pb n="63" facs="tcp:018571_0066_0FA7ABF966F64DE0"/>
+                     <pb n="63" facs="unknown:018571_0066_0FA7ABF966F64DE0"/>
                      <speaker>ADRASTUS.</speaker>
                      <l>The Prince—</l>
                   </sp>
@@ -3178,7 +3178,7 @@ For no kind roof will shield thy tender frame,</l>
                      <l>Be merciful and grant an old man's prayer.</l>
                      <l>O take the wretched father with the son,</l>
                      <l>
-                        <pb n="64" facs="tcp:018571_0067_0FA7ABFA28885BA8"/>
+                        <pb n="64" facs="unknown:018571_0067_0FA7ABFA28885BA8"/>
 And let one urn contain our mingled ashes.</l>
                      <l>My son, my son!</l>
                   </sp>
@@ -3229,7 +3229,7 @@ And let one urn contain our mingled ashes.</l>
                      <l>A second parent; O forget the former.</l>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:018571_0068_0FA7ABFAE8805CC8"/>
+                     <pb n="65" facs="unknown:018571_0068_0FA7ABFAE8805CC8"/>
                      <speaker>ARASPES.</speaker>
                      <l>Am I then doom'd to bear about a being,</l>
                      <l>Hated by all, and hateful to myself?</l>
@@ -3279,7 +3279,7 @@ And let one urn contain our mingled ashes.</l>
                      <l>And has approv'd himself his King's defender.</l>
                      <stage>(Exit Officer.)</stage>
                      <l>
-                        <pb n="66" facs="tcp:018571_0069_0FA7ABFBA6F17B80"/>
+                        <pb n="66" facs="unknown:018571_0069_0FA7ABFBA6F17B80"/>
 Inhuman crowd! will not his blood suffice?</l>
                   </sp>
                   <stage>(Pointing to Olinthus.)</stage>
@@ -3327,7 +3327,7 @@ Inhuman crowd! will not his blood suffice?</l>
                      <l>Behold me ready.</l>
                   </sp>
                   <sp>
-                     <pb n="67" facs="tcp:018571_0070_0FA7ABFC68C26ED8"/>
+                     <pb n="67" facs="unknown:018571_0070_0FA7ABFC68C26ED8"/>
                      <speaker>DORUS.</speaker>
                      <l>Justify thyself.</l>
                      <l>Fain would I find thee guiltless. See my tears.</l>
@@ -3375,7 +3375,7 @@ Inhuman crowd! will not his blood suffice?</l>
                      <l>Weak, suffering nature!</l>
                      <l>Why linger thus with step irresolute,</l>
                      <l>
-                        <pb n="68" facs="tcp:018571_0071_0FA7ABFDD939B7C8"/>
+                        <pb n="68" facs="unknown:018571_0071_0FA7ABFDD939B7C8"/>
 When death, the wretch's last best comforter,</l>
                      <l>Invites thee to the realms of peace and bliss?</l>
                      <l>Methought Araspes—horror! <gap reason="illegible: indecipherable" extent="1 word">
@@ -3419,7 +3419,7 @@ When death, the wretch's last best comforter,</l>
                   </sp>
                </div>
                <div n="8" type="scene">
-                  <pb n="69" facs="tcp:018571_0072_0FA7ABFE55BE7B88"/>
+                  <pb n="69" facs="unknown:018571_0072_0FA7ABFE55BE7B88"/>
                   <head>SCENE VIII. DORUS, ARASPES, ADRASTUS, EUDO<g ref="char:EOLhyphen"/>CIA, ISMENE.</head>
                   <sp>
                      <speaker>ISMENE.</speaker>
@@ -3460,7 +3460,7 @@ When death, the wretch's last best comforter,</l>
                      <l>Your wond'rous love shall bless the life you sav'd.</l>
                   </sp>
                   <sp>
-                     <pb n="70" facs="tcp:018571_0073_0FA7ABFEA93583C8"/>
+                     <pb n="70" facs="unknown:018571_0073_0FA7ABFEA93583C8"/>
                      <speaker>ISMENE.</speaker>
                      <l>Why should I blush to own what Heav'n approves?</l>
                      <l>Thy virtues charm'd me, as thy valor sav'd,</l>
